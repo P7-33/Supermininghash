@@ -1,4 +1,5 @@
 # Supermininghash
+https://github.com/P7-33/Supermininghash.wiki.git
 Support mining
 Skip to content
 Sign up

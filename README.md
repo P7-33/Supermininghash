@@ -1,0 +1,2 @@
+# Supermininghash
+Support mining
